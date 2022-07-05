@@ -40,8 +40,8 @@ CSV Data processing containing Google Store apps and interesting information suc
  - GUI --> Graphic User Interface
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/franloradr/BI-GPS/master/captures/G-Hipotesis.png">
+  <img src="https://raw.githubusercontent.com/franloradr/BI-GPS/master/captures/G-Hipotesis.PNG">
 </p><br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/franloradr/BI-GPS/master/captures/C-Grafica1.png">
+  <img src="https://raw.githubusercontent.com/franloradr/BI-GPS/master/captures/C-Grafica1.PNG">
 </p><br>
