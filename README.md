@@ -24,6 +24,7 @@ CSV Data processing containing Google Store apps and interesting information suc
 
 # Hypothesis statements
  - e.g: Does a high price (> 50 $) imply low sellings (< 1000 units)
+ - $$ c1: price,\ c2: units\ sold,\ x: higher\ than\ 50\ €,\ y: lower\ than\ 1000\ units \\ $$ $$ \frac{N_(c1:x \bigcap  c2:y) }{N_(c1:x)} \\ $$ 
 
 # Language
  - Scala
