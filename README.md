@@ -38,3 +38,10 @@ CSV Data processing containing Google Store apps and interesting information suc
  - Main --> Data extraction and RDD Hypothesis statements
  - Plot --> Statistical representations
  - GUI --> Graphic User Interface
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/franloradr/BI-GPS/master/captures/G-Hipotesis.png">
+</p><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/franloradr/BI-GPS/master/captures/C-Grafica1.png">
+</p><br>
