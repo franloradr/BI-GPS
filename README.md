@@ -39,6 +39,7 @@ CSV Data processing containing Google Store apps and interesting information suc
  - Plot --> Statistical representations
  - GUI --> Graphic User Interface
 
+# Captures
 <p align="center">
   <img src="https://raw.githubusercontent.com/franloradr/BI-GPS/master/captures/G-Hipotesis.PNG">
 </p><br>
