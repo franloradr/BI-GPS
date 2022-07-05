@@ -15,14 +15,25 @@ Business Intelligence - Google Play Store
 				 Inteligencia Empresarial
 
 
- Trabajo realizado por:
-	· Daniel Moreno Soto
-	· Francisco José Alonso Parejo
-	· Francisco Jesús Belmonte Pintre
+CSV Data processing containing Google Store apps and interesting information such as date release, category, amount of reviews per app, rating, app size, app price, content rating, genres, etc.
 
- Ficheros:
-	· App --> Modelo de clase para cada aplicación.
-	· FileIO --> Generación de RDD de Apps a partir del fichero csv.
-	· Main --> Extracción de datos e hipotesis del RDD.
-	· Plot --> Generación de gráficas.
-	· GUI --> Interfaz de usuario.
+# Authors
+ - Daniel Moreno Soto
+ - Francisco José Alonso Parejo
+ - Francisco Jesús Belmonte Pintre
+
+# Hypothesis statements
+ - e.g: Does a high price (> 50 $) imply low sellings (< 1000 units)
+
+# Language
+ - Scala
+
+# Statistical representations
+ - Vegas-Viz
+
+# Files
+ - App --> Class model. Each instance will represent a Google Store app
+ - FileIO --> RDD Apps generation from CSV File
+ - Main --> Data extraction and RDD Hypothesis statements
+ - Plot --> Statistical representations
+ - GUI --> Graphic User Interface
