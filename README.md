@@ -1,4 +1,4 @@
-# BI-GPS
+# Google PlayStore Analytics
 Business Intelligence - Google Play Store
 
 
